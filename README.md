@@ -1,5 +1,5 @@
 # 💫 HI! I'm Syon Mukherjee!
-🔭 I’m currently working on a few Python projects<br>- 🌱 I’m currently learning DSA and ML<br>- 📫 How to reach me: mukherjee.syon1816@gmail.com<br>- ⚡ Fun fact: I can solve Rubik's cubes really fast!
+-🔭 I’m currently working on a few Python projects<br>- 🌱 I’m currently learning DSA and ML<br>- 📫 How to reach me: mukherjee.syon1816@gmail.com<br>- ⚡ Fun fact: I can solve Rubik's cubes really fast!
 
 
 ## 🌐 Socials:
